@@ -9,7 +9,7 @@
     "start": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eric Wiewiora",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.19.0",
